@@ -7,5 +7,3 @@ Noi dung cua May Tinh 1
 Noi dung cua may tinh 2
 
 Noi dung hoc GIT GUI
-
-Noi dung hoc Source Tree
